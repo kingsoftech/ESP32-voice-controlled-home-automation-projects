@@ -5,12 +5,12 @@
        #define NODEBUG_WEBSOCKETS
        #define NDEBUG
 #endif 
-#define device_ID_1   "61162ec2fc89cf4050892853"
-#define device_ID_2   "61162f2cbab19d405819512d"
-#define WIFI_SSID         "TECNO SPARK 4"    
-#define WIFI_PASS         "123456789"
-#define APP_KEY           "606f6c8e-bebf-49f3-88ba-f23d7c2d3be5"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "a98c11fe-eb3f-45be-9bac-0ff7d8ec58ef-460d2e10-9299-4dbe-945a-a2501bda0c62"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define device_ID_1   "***********************"
+#define device_ID_2   "***********************"
+#define WIFI_SSID         "********************"    
+#define WIFI_PASS         "**********************"
+#define APP_KEY           "************************"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "*****************************************"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 #define RelayPin1 23  //D23
 #define RelayPin2 22  //D22
 #define BAUD_RATE  9600              // Change baudrate to your need
